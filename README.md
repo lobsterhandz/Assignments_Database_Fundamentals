@@ -2,7 +2,7 @@
 
 ## ERD Diagram
 
-![ERD](./images/erd.png)
+![ERD](./images/BookHaven_ERD.png)
 
 ## Objective
 The aim of this assignment is to apply the concepts of relational database design, normalization, and entity-relationship modeling to create an efficient and structured database for a bookstore management system, "BookHaven."
@@ -11,7 +11,7 @@ The aim of this assignment is to apply the concepts of relational database desig
 "BookHaven" is facing challenges in managing its extensive collection of books, author information, customer data, and transaction records. The current system has issues with data redundancy, inconsistency, and inefficient data retrieval. Your task is to design a relational database that addresses these problems while ensuring data integrity and ease of access.
 ## ERD Diagram
 
-![ERD](./images/erd.png)
+![ERD](./images/BookHaven_ERD.png)
 
 ## Task 1: Database Schema Design
 
